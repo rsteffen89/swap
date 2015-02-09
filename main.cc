@@ -13,4 +13,3 @@ int main() {
     cout<< a <<" "<<b;
 }
 
-// Result will be a=3 ,b=2
